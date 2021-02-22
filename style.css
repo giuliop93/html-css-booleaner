@@ -1,8 +1,12 @@
 #header {
-    height: 20px;
+    height: 50px;
     width: 100%;
-    background-image: 'img/pattern.png';
-    background-repeat: repeat;
+    background-color: brown;    
+}
+
+#logo {
+    height: 100%;
+    width: auto;
 }
 
 h3 {
@@ -31,10 +35,18 @@ h5 {
     color: black;
     background-color: yellow;
 }
+
+ul {
+    list-style-position: inside;
+}
+
 #monitor {
+    color: white;
     background-image: 'img/monitor.jpg';
 }
 
 #grafico {
-    background-image: 'img/graph.jpg';
+    height: 60px;
+    color: white;
+    background-image: image('img/graph.jpg');
 }
