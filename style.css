@@ -1,5 +1,18 @@
-div {
+#header {
     height: 20px;
-    width: 100vw;
-    background-image: 'img/monitor.jpg';
+    width: 100%;
+    background-image: 'img/pattern.png';
+    background-repeat: repeat;
+}
+
+#highlighter {
+    color: black;
+    background-color: yellow;
+}
+#monitor {
+    background-image: urimg/monitor.jpg';
+}
+
+#grafico {
+    background-image: 'img/graph.jpg';
 }
