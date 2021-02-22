@@ -5,12 +5,34 @@
     background-repeat: repeat;
 }
 
+h3 {
+    color: grey;
+}
+
+h5 {
+    color: grey;
+}
+
+#columnist {
+    color: dodgerblue;
+}
+
+.row-one {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.row-two {
+    background-color: lightskyblue;
+    
+}
+
 #highlighter {
     color: black;
     background-color: yellow;
 }
 #monitor {
-    background-image: urimg/monitor.jpg';
+    background-image: 'img/monitor.jpg';
 }
 
 #grafico {
