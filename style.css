@@ -1,7 +1,9 @@
 #header {
     height: 50px;
     width: 100%;
-    background-color: brown;    
+    background-image: url('img/pattern.png');
+    background-size: contain;    
+    background-color: dodgerblue;
 }
 
 #logo {
