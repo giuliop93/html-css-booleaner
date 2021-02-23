@@ -28,6 +28,7 @@
 
 h1 {
     text-align: left;
+    font-weight: bolder;
 }
 
 h3 {
@@ -62,8 +63,7 @@ p {
 }
 
 ul {
-    padding-top: 15px;
-    padding-bottom: 15px;
+   padding-bottom: 15px;
    margin-left: 15px;
 }
 
