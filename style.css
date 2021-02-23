@@ -1,7 +1,5 @@
 * {
-    margin-top: 0;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin: 0;
     padding: 0;
     box-sizing: content-box;
 } 
@@ -51,6 +49,7 @@ p {
 .row-one {
     background-color: dodgerblue;
     color: white;
+    font-weight: bold;
 }
 
 .row-two {
